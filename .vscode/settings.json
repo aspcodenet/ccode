@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\stefa\\source\\ccode",
+            "binaryPath": "c:\\Users\\stefa\\source\\ccode\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
